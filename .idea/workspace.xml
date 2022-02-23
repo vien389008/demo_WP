@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7552dc5c-0001-4060-8dce-2b4c53a0d638" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="25SbrlMwTIB7O1rqsFgH0El4LmX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../japan_theme" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\AHT\wordpress_demo\wp-content\themes\shopkeeper-ecommerce\woocommerce\single-product\add-to-cart" />
+      <recent name="C:\xampp\htdocs\AHT\wordpress_demo\wp-content\themes\shopkeeper-ecommerce\woocommerce" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7552dc5c-0001-4060-8dce-2b4c53a0d638" name="Default Changelist" comment="" />
+      <created>1645523635969</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645523635969</updated>
+      <workItem from="1645523637293" duration="11312000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/packages/woocommerce-blocks/assets/js/types/type-defs/shipping.js" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/packages/woocommerce-blocks/assets/js/types/type-defs/hooks.js" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/packages/woocommerce-blocks/assets/js/types/type-defs/contexts.js" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/packages/woocommerce-blocks/assets/js/types/type-defs/cart.js" />
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="706" y="318" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1645527250885">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="706" y="318" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1032@0.0.1920.1032" timestamp="1645527250885" />
+    <state x="740" y="270" key="FileChooserDialogImpl" timestamp="1645579904781">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="740" y="270" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1645579904781" />
+    <state x="656" y="253" width="933" height="526" key="find.popup" timestamp="1645533928147">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="656" y="253" width="933" height="526" key="find.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1645533928147" />
+  </component>
+</project>
